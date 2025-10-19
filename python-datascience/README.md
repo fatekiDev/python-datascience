@@ -4,7 +4,7 @@ Este repositorio contiene un **análisis exploratorio de datos (EDA)** del datas
 Forma parte del aprendizaje en el curso de **Data Science con Python**, dentro del proyecto de software en colaboración con **CONAF**.
 
 ## 📂 Contenido
-- `EDA_customer_journey.ipynb`: Notebook principal con el análisis y visualizaciones.
+- `.jobdataset.ipynb`: Notebook principal con el análisis y visualizaciones.
 - `customer_journey.csv`: Dataset utilizado en el análisis.
 
 ## 🧩 Tecnologías utilizadas
@@ -30,7 +30,7 @@ This repository contains an **Exploratory Data Analysis (EDA)** of the *Customer
 It is part of the **Python for Data Science** training phase for the software project in collaboration with **CONAF**.
 
 ## 📂 Contents
-- `EDA_customer_journey.ipynb`: Main notebook with analysis and visualizations.  
+- `.jobdataset.ipynb`: Main notebook with analysis and visualizations.  
 - `customer_journey.csv`: Dataset used in the study.  
 
 ## 🧩 Tools
